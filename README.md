@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/benjibrown/benjibrown/main/Screenshot%202023-01-04%2011%3A53%3A20.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/benjibrown/benjibrown/main/Screenshot%202023-01-04%2011%3A53%3A20.png" width="600"/>
 
 </p>
 
