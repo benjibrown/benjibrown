@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://github.com/benjibrown/benjibrown/blob/main/Screenshot%202023-01-04%2011:53:20.png?raw=true" width="200"/>
 
 </p>
 
@@ -18,7 +18,7 @@
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-Current Project: <a href="https://github.com/benjibrown/OINTS">OINTS - Open-source Intelligence N' Technial Sh**t.</a> 
+Current Project: <a href="https://github.com/archcraft-os/archcraft-theme-manager">Archcraft OS Theme Manager!</a> 
 
 
 </samp>
