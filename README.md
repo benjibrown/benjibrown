@@ -18,7 +18,7 @@
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-Current Project: <a href="https://github.com/archcraft-os/archcraft-theme-manager">Archcraft OS Theme Manager!</a> 
+Current Project: <a href="https://github.com/benjibrown/gamma">Gamma - Math CLI </a> 
 
 
 </samp>
