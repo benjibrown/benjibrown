@@ -5,7 +5,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/benjibrown/benjibrown/main/ss.png" width="800"/>
+  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="800"/>
 
 </p>
 
