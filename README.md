@@ -1,24 +1,23 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/benjibrown">Benji</a></b>.
-    <br>I'm a human...<br>
+    big larps
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/benjibrown/benjibrown/main/Screenshot%202023-01-04%2011%3A53%3A20.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/benjibrown/benjibrown/main/ss.png" width="800"/>
 
 </p>
 
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> Larp </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+ <b><h2 style="color: #fc6203">LARPED !</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-Current Project: <a href="https://github.com/benjibrown/gamma">Gamma - Math CLI </a> 
+<img src="https://64.media.tumblr.com/9cd04778ed7da92551fb1edda5052f9e/95765e1e45260b29-33/s1280x1920/49c8d656b6a72b34b998488549b55b4bde90d380.gifv" width="200"/>
+Current Project: <a href="https://github.com/benjibrown/lantern">Lantern</a> 
 
 
 </samp>
