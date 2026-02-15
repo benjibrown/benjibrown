@@ -1,13 +1,8 @@
-<p align="center">
+<div align="center">
+  <samp>big larps</samp>
   <br>
-  <samp>
-    big larps
-
-</samp>
-
   <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="500"/>
-
-</p>
+</div>
 
 
 <details align="center">
