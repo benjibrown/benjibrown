@@ -4,7 +4,12 @@
   <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="500"/>
 </div>
 
-
+<a href="https://heatmap.shymike.dev?id=benji&year=current&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=1&year=current&theme=catppuccin_dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=1&year=current&theme=catppuccin_light">
+    </picture>
+</a>
 <details align="center">
 
 <summary> <b> <samp> Larp </samp></b></summary>
