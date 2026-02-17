@@ -12,7 +12,7 @@
     </picture>
 </a>
 
-  <samp> hackatime stats</samp>
+  <samp>2026 - hackatime stats</samp>
 <details>
   <summary><b><samp>Larp</samp></b></summary>
 
