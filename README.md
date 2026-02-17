@@ -4,10 +4,10 @@
   <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="500"/>
 </div>
 
-<a href="https://heatmap.shymike.dev?id=benji&standalone=true" title="Click to view detailed data for each day!">
+<a href="https://heatmap.shymike.dev?id=benji&year=current&standalone=true" title="Click to view detailed data for each day!">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=benji&theme=dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=benji&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=benji&year=current&theme=catppuccin_dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=benji&year=current&theme=catppuccin_light">
     </picture>
 </a>
 
